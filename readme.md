@@ -5,7 +5,7 @@
 
 *__Week -1:__
 
-    [Introdution to Git and GitHub](https://github.com/MahaQadamani/udemy.git)
+    [Introdution to Git and GitHub](https://github.com/MahaQadamani/udemy)
 
 *__Week -2:__
 
