@@ -3,10 +3,10 @@
 
 ### Name: Maha Qadamani
 
-*__Week -1:__
+* __Week -1:__
 
     [Introdution to Git and GitHub](https://github.com/MahaQadamani/udemy)
 
-*__Week -2:__
+* __Week -2:__
 
         Creating Markdown File
