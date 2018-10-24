@@ -13,8 +13,4 @@
 
 * __Week -3:__
 
-     Introduction to Python: Numbers and Strings
-
-     Next is the code for Hello your name:
-
-     print('Hello '+input('Enter your name: '))
+     Introduction to Python: Numbers and Strings.
