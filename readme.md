@@ -9,7 +9,7 @@
 
 * __Week -2:__
 
-        Creating Markdown File
+    Creating Markdown File
 
 * __Week -3:__
 
