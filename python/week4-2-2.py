@@ -1,10 +1,15 @@
 print('Numbers from 1 to 10')
 x = 7
-input('Guess the number: ')
-while int(input('Guess the number: ')) != x:
-    if 1 < int(input('Guess the number: ')) < 10:
-        continue
-    else:
-        print('Number is between 1 and 10')
-        continue
-print('Great! You did it')
+
+m = int(input('Guess the number: '))
+if m == x:
+    print('Great! You did it')
+else:
+    while m != x:
+        if m <1 or m >10:
+            print('number is between 1 and 10')
+            input('Guess the number: ')
+            continue
+        else:
+            input('Guess the number: ')
+            continue
