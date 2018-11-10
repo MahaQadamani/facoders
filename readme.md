@@ -18,3 +18,7 @@
 * __Week -4:__
     
      Introdution to Python: If statement and While loop.
+     
+* __week -5:__
+     
+     Introdution to Python: lists and For Loop.
